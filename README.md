@@ -96,7 +96,11 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 
 
-# Other Countries    
+# Other Countries
+
+### Angola
+
+*  [AngoDev](http://slackin.angodev.com)
 
 ### Argentina
 
